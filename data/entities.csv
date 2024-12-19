@@ -1,0 +1,3 @@
+entityID,entityType,groupId<Number>,description<Text>,status<Text>
+"Comunicaciones","Category",666,"Categoria de comunicaciones","on"
+"Sensores_Actuadores","Category",999,","Cateogria de sensores","off"
